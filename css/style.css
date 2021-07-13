@@ -1,0 +1,97 @@
+*{
+    box-sizing: border-box;  
+}
+
+body{
+
+    background-color: whitesmoke;
+    margin: 0px;
+    
+}
+
+
+ nav{
+    background-color:gray;
+     /* position:relative; */
+     margin-bottom: 20px;
+    
+     
+ }
+ 
+nav ul {
+    
+    display:inline-block;
+
+}
+
+
+nav ul li{
+    display:inline-block; 
+    padding-left:50px; 
+}
+
+#img{ 
+    padding: 20px;
+}
+
+
+/* this is for the three imges */
+#section1 ul li{
+
+    display: inline-block;
+    
+}
+
+
+
+#final .left {
+    width: 960px;
+
+/* float: left; */
+    /* width: 30%; */
+    padding: 20px;
+
+}
+
+#final .right{
+
+    /* float:right; */
+    width: 30%;
+    padding: 20px;
+}
+
+#final-img{
+float: left;
+/* width: 30%; */
+padding-right: 30px;
+}
+
+
+.left p{
+    height: 350px;
+width: 400px;
+/* overflow: auto; */
+  overflow: scroll;
+
+}
+
+
+#all{
+
+
+    padding: 70px;
+}
+
+
+#final{
+    margin: 40px;
+    display: inline-block;
+
+}
+footer{
+    background-color: grey;
+    height: 50px;
+
+    /* margin-bottom: 0px;
+    padding-bottom:  0px; */
+}
